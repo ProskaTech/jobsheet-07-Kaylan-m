@@ -1,5 +1,14 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Kayla Nahda Muadzah_21343052
+Pada Jobsheet 7 ini kita diperkenalkan dengan Looping atau perulangan pada program java yang dimana terdapat beberapa pernyataan yang bisa digunakan untuk perulangan diantaranya sebagai berikut :
+
+Pernyataan FOR Bentuk pernyataan perulangan FOR adalah sebagai berikut :
+
+Tunggal : for (ungkapan 1; ungkapan 2; ungkapan 3) pernyataan ;
+
+Jamak : for (ungkapan 1; ungkapan 2; ungkapan 3) { pernyataan ; Pernyataan ; }
+
+Kegunaan dari masing - masing pernyataan for : 
+Ungkapan 1 : digunakan untuk memberikan inisialisasi terhadap variabel pengendali loop. 
+Ungkapan 2 : dipakai sebagai kondisi untuk keluar dari loop. 
+Ungkapan 3 : dipakai sebagai pengatur kenaikan nilai variabel pengendali loop.
+
